@@ -18,8 +18,6 @@ public class InAppBillingAnjlab extends AppCompatActivity implements BillingProc
     private static final String TAG = "InAppBilling";
 
     static final String ITEM_SKU = "android.test.purchased";
-    //static final String ITEM_SKU = "com.inappbillinganjlab.pro";
-    //final String base64EncodedPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqJUNhWfqOdIW+isT3MlF/xMCyij5ie+P9drmsGZT53AtdT/+jywTeYQ1KZ3KT75xWpO9IXx5BhhrS3rMk8VyiMcPAhXmRcKimt2wuKN0T/6MmRE/rnPmdjFcjAaXCF5mmCWfFSFFfTc9NGwkG4COr8Y+xAumlJUs6hMHF1xFPjjTE1tMn0qAIIt27iu/hdP1LrZX/kTd3bsYKRpfIEhteaYmODWn3R0yR84C/spEebzPFZ05Ym673++Y5cUnI6vpA237EnpnziKlrB7YlhQbsuKR3Bqu0/n2USxi5igQLpyn6kUp6xgBZaL3q/bocuaflkj7kaI1xNDzczKxvDWWqQIDAQAB";
     final String base64EncodedPublicKey = "null";
 
     private Button clickButton;
